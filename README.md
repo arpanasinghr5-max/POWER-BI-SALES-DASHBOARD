@@ -1,7 +1,6 @@
 # POWER-BI-SALES-DASHBOARD
 Interactive Sales Performance Dashboard built in Power BI to analyze sales, profit, quantity, regional performance, and category insights. Features dynamic slicers, KPI cards, trend analysis, profit distribution, and key influencer visuals for data-driven business decision-making and performance tracking.
 
-**##Project Overview**
 
 The dashboard enables users to monitor business performance efficiently by transforming raw sales data into meaningful insights using advanced data visualization techniques and KPI analysis. It provides a centralized platform for tracking sales growth, identifying profitable product categories, analyzing regional contributions, and supporting strategic business decision-making.
 
